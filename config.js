@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Joseph Pak',
+  subtitle: "Subtitle",
+  copyright: '© Joseph Pak 2019.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Joe Pak',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: `I'm an experienced Product Manager looking for my next great adventure. Writing and building help me organize my thoughts.`,
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'josephpak2014@gmail.com',
+      twitter: 'https://twitter.com/josephpak',
+      github: 'https://github.com/josephpak',
     }
   }
 };
