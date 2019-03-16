@@ -10,7 +10,7 @@ module.exports = {
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Writing',
       path: '/'
     },
     {
@@ -25,11 +25,11 @@ module.exports = {
   author: {
     name: 'Joe Pak',
     photo: '/photo.jpg',
-    bio: `I'm an experienced Product Manager looking for my next great adventure. Writing and building help me organize my thoughts.`,
+    bio: `Formerly Product, Corporate Development, and Business Ops at FiscalNote. Written opinions and analysis are humbly presented and weakly held.`,
     contacts: {
       email: 'josephpak2014@gmail.com',
-      twitter: 'https://twitter.com/josephpak',
-      github: 'https://github.com/josephpak',
+      twitter: 'josephpak',
+      github: 'josephpak',
     }
   }
 };
