@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://josephjpak.com',
   title: 'Joseph Pak',
   subtitle: "Subtitle",
   copyright: '© Joseph Pak 2019.',
@@ -10,7 +10,7 @@ module.exports = {
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Writing',
+      label: 'Writing and Projects',
       path: '/'
     },
     {
