@@ -10,17 +10,13 @@ module.exports = {
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Writing and Projects',
-      path: '/'
-    },
-    {
       label: 'About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Writing and Projects',
+      path: '/'
+    },
   ],
   author: {
     name: 'Joe Pak',
