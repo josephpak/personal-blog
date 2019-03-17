@@ -3,8 +3,14 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi! I'm Joe. I was most recently a product manager at FiscalNote where I led research and development for the company's relationship management software and data products. 
+
+During my three-plus years at FiscalNote, I wore many different hats to help scale the business from \$1M to over \$50M in ARR - dabbling in business operations, M&A, and sales. More importantly, I had the opportunity to work with a mission-driven, passionate team from all walks of life to change the way the public and private sector communicate and create public policy.
 
 ![](/media/climbing-kalymnos.jpg)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Before my next adventure, I'm taking some time to join the Lambda School community to learn how to design and build modern software - checking a big item off my bucket-list.
+
+When I'm not building software, you'll likely find me on a basketball court somewhere - playing pick-up, 21, HORSE, you name it.
+
+If you're interested in the honest inspection of the good (and bad!) implications of technology in our society, I'd love to meet you. I promise to limit my hot-takes, but no guarantees!
